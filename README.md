@@ -1,0 +1,2 @@
+# lets-gromore-task1
+Hello, #connections I am glad to share that I've successfully completed my #Task1 as a part of the Web Developer Intern under LetsGrowMore Community:- Internship Program LGM-VIP March 2022 (Session). #ʟɢᴍᴠɪᴩMARCH  Language: HTML, CSS, Javascript IDE: Visual Studio Code Task1: CREATE A TO DO LIST WEBAPP  I would like to thank #amankesarwani and #LetsGrowMore (LGM) Community for giving me this opportunity to show my skills and learn through this internship program.
